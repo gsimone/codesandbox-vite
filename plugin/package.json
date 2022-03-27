@@ -1,5 +1,5 @@
 {
-  "name": "@codesandbox/vite-plugin",
+  "name": "@gsimone/codesandbox-vite-plugin",
   "version": "1.0.0",
   "main": "dist/codesandbox-vite-plugin.cjs.js",
   "module": "dist/codesandbox-vite-plugin.esm.js",
