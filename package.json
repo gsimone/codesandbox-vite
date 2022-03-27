@@ -1,0 +1,21 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "@preconstruct/cli": "^2.1.5"
+  },
+  "scripts": {
+    "dev": "preconstruct dev",
+    "build": "preconstruct build",
+    "postinstall": "yarn dev"
+  },
+  "workspaces": [
+    "examaple/",
+    "plugin/"
+  ],
+  "preconstruct": {
+    "packages": [
+      "plugin/"
+    ]
+  }
+}

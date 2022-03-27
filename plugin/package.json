@@ -1,0 +1,9 @@
+{
+  "name": "@codesandbox/vite-plugin",
+  "version": "1.0.0",
+  "main": "dist/codesandbox-vite-plugin.cjs.js",
+  "module": "dist/codesandbox-vite-plugin.esm.js",
+  "repository": "git@github.com:gsimone/codesandbox-vite.git",
+  "author": "Gianmarco <gianmarcosimone89@gmail.com>",
+  "license": "MIT"
+}
