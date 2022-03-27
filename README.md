@@ -1,4 +1,4 @@
-## @codesandbox/plugin-vite
+## @gsimone/codesandbox-vite-plugin
 
 Merge custom configuration needed for vite when running the process on Codesandbox Projects.
 
